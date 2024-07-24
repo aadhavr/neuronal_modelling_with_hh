@@ -1,4 +1,4 @@
-Neuronal Model Simulation with the Hodgkin-Huxley Model
+# Neuronal Modelling with the Hodgkin-Huxley Model
 
 ## Introduction
 
